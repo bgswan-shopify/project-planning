@@ -3,11 +3,12 @@
 Trying out ideas around planning and tracking.
 
 ## Projects
-
 * Each project has a github project board
 * Project board represents a release (GSD)
 * Column per sprint
 * Items are user stories
+
+## User Stories
 * User story is a GitHub issue
 * Issue has title, description, acceptance criteria and task break down
 * Task is checkbox, description, handle of who is working on it
