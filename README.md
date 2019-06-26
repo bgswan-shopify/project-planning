@@ -47,7 +47,7 @@ For each project
 * Revise sprint plan as needed (add/remove/split stories)
 
 ## Handling non-project work
-* Create a "keeping  the lights on" project
+* Create a "[keeping the lights on](https://github.com/bgswan-shopify/project-planning/projects/3)" project
 * Add a new column each sprint
 * Add an issue for each non-project item worked on during the sprint. This also provides a place to document the issue.
 * Add a column to the task board for any unplanned stories
