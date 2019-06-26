@@ -13,10 +13,12 @@ Trying out ideas around planning and tracking.
 * Task is checkbox, description, handle of who is working on it
 * Add PR once in review
 * Checked once merged
+* Close issue once story is complete
+* Optionally use Milestones for GSD phases
 
 ## Release Planning
 * Beginning of a new project/release
-* Represents the GSD phases
+* Includes all GSD phases
 * Create stories for release (include non-engineering work as well)
 * Distribute stories into sprints/iterations
 
@@ -43,4 +45,8 @@ For each project
 * Add a new column each sprint
 * Add an issue for each non-project item worked on during the sprint. This also provides a place to document the issue.
 * Add a column to the task board for any unplanned stories
-* Ideally create a copy of the issue in each sprint column if it spans multiple sprints
+
+## Handling long-running stories
+* Ideally split the story so that part can be delivered
+* Use a label to indicate a blocked story
+* If the story continues for more than one sprint, create a note that links to the story in the current sprint and move the story card to the next sprint
