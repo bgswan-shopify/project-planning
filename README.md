@@ -3,7 +3,7 @@
 Trying out ideas around planning and tracking.
 
 ## Projects
-* Each [project](https://github.com/bgswan-shopify/project-planning/projects/1) has a github project board
+* Each project has a github [project board](https://github.com/bgswan-shopify/project-planning/projects/1)
 * Project board represents a release (GSD)
 * [Column](https://github.com/bgswan-shopify/project-planning/projects/1#column-5748382) per sprint
 * [Items](https://github.com/bgswan-shopify/project-planning/projects/1#card-23197101) are user stories
