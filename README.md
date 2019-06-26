@@ -54,5 +54,5 @@ For each project
 
 ## Handling long-running stories
 * Ideally split the story so that part can be delivered
-* Use a label to indicate a blocked story
+* Use a label to indicate a [blocked story](https://github.com/bgswan-shopify/project-planning/projects/3#card-23197675)
 * If the story continues for more than one sprint, [create a note](https://github.com/bgswan-shopify/project-planning/projects/3#card-23198002) that links to the story in the current sprint and move the story card to the next sprint
