@@ -5,14 +5,14 @@ Trying out ideas around planning and tracking.
 ## Projects
 * Each [project](https://github.com/bgswan-shopify/project-planning/projects/1) has a github project board
 * Project board represents a release (GSD)
-* Column per sprint
-* Items are user stories
+* [Column](https://github.com/bgswan-shopify/project-planning/projects/1#column-5748382) per sprint
+* [Items](https://github.com/bgswan-shopify/project-planning/projects/1#card-23197101) are user stories
 
 ## User Stories
 * User story is a [GitHub issue](https://github.com/bgswan-shopify/project-planning/issues/1)
 * Issue has title, description, acceptance criteria and task break down
 * Close issue once story is complete
-* Optionally use Milestones for GSD phases
+* Optionally use [Milestones](https://github.com/bgswan-shopify/project-planning/milestones) for GSD phases
 
 ## Tasks
 * Task is a checkbox item on the associated issue
@@ -37,8 +37,8 @@ For each project
 
 ## Task board
 * Seperate project for [task board](https://github.com/bgswan-shopify/project-planning/projects/2)
-* One column per story
-* One note per task
+* One [column](https://github.com/bgswan-shopify/project-planning/projects/2#column-5748485) per story
+* One [note](https://github.com/bgswan-shopify/project-planning/projects/2#card-23197538) per task
 
 ## Daily standup
 * Delete notes for done tasks on the task board
