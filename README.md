@@ -11,17 +11,21 @@ Trying out ideas around planning and tracking.
 ## User Stories
 * User story is a GitHub issue
 * Issue has title, description, acceptance criteria and task break down
-* Task is checkbox, description, handle of who is working on it
-* Add PR link once in review
-* Checked once merged
 * Close issue once story is complete
 * Optionally use Milestones for GSD phases
+
+## Tasks
+* Task is a checkbox item on the associated issue
+* Description, handle of who is working on it
+* Add PR link once in review
+* Checked once merged
+* Also add note on the task board
 
 ## Release Planning
 * Beginning of a new project/release
 * Includes all GSD phases
 * Create stories for release (include non-engineering work as well)
-* Distribute stories into sprints/iterations
+* Distribute stories into sprints
 
 ## Sprint Planning
 For each project 
