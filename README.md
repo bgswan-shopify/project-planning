@@ -48,9 +48,9 @@ For each project
 
 ## Handling non-project work
 * Create a "[keeping the lights on](https://github.com/bgswan-shopify/project-planning/projects/3)" project
-* Add a new column each sprint
-* Add an issue for each non-project item worked on during the sprint. This also provides a place to document the issue.
-* Add a column to the task board for any unplanned stories
+* Add a new [column](https://github.com/bgswan-shopify/project-planning/projects/3#column-5748523) each sprint
+* Add an [issue](https://github.com/bgswan-shopify/project-planning/issues/2) for each non-project item worked on during the sprint. This also provides a place to document the issue.
+* Add a [column](https://github.com/bgswan-shopify/project-planning/projects/2#column-5760569) to the task board for any [unplanned stories](https://github.com/bgswan-shopify/project-planning/issues/8)
 
 ## Handling long-running stories
 * Ideally split the story so that part can be delivered
