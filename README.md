@@ -9,7 +9,7 @@ Trying out ideas around planning and tracking.
 * Items are user stories
 
 ## User Stories
-* User story is a GitHub issue
+* User story is a [GitHub issue](https://github.com/bgswan-shopify/project-planning/issues/1)
 * Issue has title, description, acceptance criteria and task break down
 * Close issue once story is complete
 * Optionally use Milestones for GSD phases
