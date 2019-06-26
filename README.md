@@ -41,10 +41,10 @@ For each project
 * One note per task
 
 ## Daily standup
-* Delete done tasks
+* Delete notes for done tasks on the task board
 * Add any new unplanned tasks
 * Ask "are we still confident we can deliver the planned stories"
-* Revise sprint plan as needed (remove/split stories)
+* Revise sprint plan as needed (add/remove/split stories)
 
 ## Handling non-project work
 * Create a "keeping  the lights on" project
