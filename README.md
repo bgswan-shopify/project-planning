@@ -11,7 +11,7 @@ Trying out ideas around planning and tracking.
 * User story is a GitHub issue
 * Issue has title, description, acceptance criteria and task break down
 * Task is checkbox, description, handle of who is working on it
-* Add PR once in review
+* Add PR link once in review
 * Checked once merged
 * Close issue once story is complete
 * Optionally use Milestones for GSD phases
