@@ -36,6 +36,7 @@ For each project
 * Build task board for the sprint
 
 ## Task board
+* Seperate project for [task board](https://github.com/bgswan-shopify/project-planning/projects/2)
 * One column per story
 * One note per task
 
