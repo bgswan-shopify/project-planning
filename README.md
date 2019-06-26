@@ -33,7 +33,7 @@ For each project
 * Revise release plan based on completed stories
 * Agree stories for next sprint
 * Break stories into tasks
-* Build task board for the sprint
+* Build [task board](https://github.com/bgswan-shopify/project-planning/projects/2) for the sprint
 
 ## Task board
 * Seperate project for [task board](https://github.com/bgswan-shopify/project-planning/projects/2)
