@@ -19,7 +19,7 @@ Trying out ideas around planning and tracking.
 * Description, handle of who is working on it
 * Add PR link once in review
 * Checked once merged
-* Also add [note](https://github.com/bgswan-shopify/project-planning/projects/1#card-23197101) on the task board
+* Also add [note](https://github.com/bgswan-shopify/project-planning/projects/2#card-23197538) on the task board
 
 ## Release Planning
 * Beginning of a new project/release
