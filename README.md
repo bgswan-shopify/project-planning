@@ -15,14 +15,13 @@ Trying out ideas around planning and tracking.
 * Optionally use [Milestones](https://github.com/bgswan-shopify/project-planning/milestones) for GSD phases
 * For further out stories a [project note](https://github.com/bgswan-shopify/project-planning/projects/1#card-23547968) rather than an issue can be used
 
-## Tasks
+## Task Breakdown
 * Task is a checkbox item on the [associated issue](https://github.com/bgswan-shopify/project-planning/issues/1)
-* Description, handle of who is working on it
+* Task breakdown item as a title describing the task
+* Add handle of who is working on it once it is started
 * Create a PR when a task is started
 * Add a link to the PR on the task breakdown
-* Replace the task card content with the [PR link](https://github.com/bgswan-shopify/project-planning/projects/2#card-23197538)
 * Checked once merged
-* Also add [note](https://github.com/bgswan-shopify/project-planning/projects/2#card-23197538) on the task board
 
 ## Release Planning
 * Beginning of a new project/release
@@ -42,6 +41,7 @@ For each project
 * Seperate project for [task board](https://github.com/bgswan-shopify/project-planning/projects/2)
 * One [column](https://github.com/bgswan-shopify/project-planning/projects/2#column-5748485) per story
 * One [note](https://github.com/bgswan-shopify/project-planning/projects/2#card-23197538) per task
+* Replace the task card content with the [PR link](https://github.com/bgswan-shopify/project-planning/projects/2#card-23197538)
 
 ## Daily standup
 * Delete notes for done tasks on the task board
