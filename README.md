@@ -40,7 +40,7 @@ For each project
 ## Task board
 * Seperate project for [task board](https://github.com/bgswan-shopify/project-planning/projects/2)
 * One [column](https://github.com/bgswan-shopify/project-planning/projects/2#column-5748485) per story
-* One [note](https://github.com/bgswan-shopify/project-planning/projects/2#card-23197538) per task
+* One [note](https://github.com/bgswan-shopify/project-planning/projects/2#card-23197542) per task
 * Replace the task card content with the [PR link](https://github.com/bgswan-shopify/project-planning/projects/2#card-23197538)
 
 ## Daily standup
