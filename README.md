@@ -16,7 +16,7 @@ Trying out ideas around planning and tracking.
 * For further out stories a [project note](https://github.com/bgswan-shopify/project-planning/projects/1#card-23547968) rather than an issue could be used
 
 ## Tasks
-* Task is a checkbox item on the associated issue
+* Task is a checkbox item on the [associated issue](https://github.com/bgswan-shopify/project-planning/issues/1)
 * Description, handle of who is working on it
 * Create a PR when a task is started
 * Add a link to the PR on the task breakdown
