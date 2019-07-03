@@ -17,7 +17,9 @@ Trying out ideas around planning and tracking.
 ## Tasks
 * Task is a checkbox item on the associated issue
 * Description, handle of who is working on it
-* Add PR link once in review
+* Create a PR when a task is started
+* Add a link to the PR on the task breakdown
+* Replace the task card content with the [PR link](https://github.com/bgswan-shopify/project-planning/projects/2#card-23197538)
 * Checked once merged
 * Also add [note](https://github.com/bgswan-shopify/project-planning/projects/2#card-23197538) on the task board
 
