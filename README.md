@@ -13,7 +13,7 @@ Trying out ideas around planning and tracking.
 * Issue has title, description, acceptance criteria and task break down
 * Close issue once story is complete
 * Optionally use [Milestones](https://github.com/bgswan-shopify/project-planning/milestones) for GSD phases
-* For further out stories a [project note](https://github.com/bgswan-shopify/project-planning/projects/1#card-23547968) rather than an issue could be used
+* For further out stories a [project note](https://github.com/bgswan-shopify/project-planning/projects/1#card-23547968) rather than an issue can be used
 
 ## Tasks
 * Task is a checkbox item on the [associated issue](https://github.com/bgswan-shopify/project-planning/issues/1)
